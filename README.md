@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Eric Fonseca Nascimento 👨‍💻
 
-<!--
-**Eric-FN/Eric-FN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Android developer and passionate about technology.
+### 👀 I am currently looking for a job. 👀
 
-Here are some ideas to get you started:
+## ⚡ Skills
+- Android Development (Java e Kotlin)
+- Architectures MVC, MVP, MVVM
+- Clean Architecture
+- Dependency injection with Hilt
+- APis with Retrofit, Coroutines
+- Service e Broadcast
+- SOLID
+- Git and GitHub
+- Firebase, SQLite e SQL
+- Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation and Compose)
+- Integration and Testing
+- Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-fonseca-17751a49/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericfonsecaof/) 
+
