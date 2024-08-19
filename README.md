@@ -9,7 +9,7 @@ I am an Android developer and passionate about technology.
 - Clean Architecture
 - Dependency injection with Hilt
 - APis with Retrofit, Coroutines
-- Service e Broadcast
+- Service and Broadcast
 - SOLID
 - Git and GitHub
 - Firebase, SQLite and SQL
