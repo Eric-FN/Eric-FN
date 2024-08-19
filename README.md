@@ -4,7 +4,7 @@ I am an Android developer and passionate about technology.
 ### 👀 I am currently looking for a job. 👀
 
 ## ⚡ Skills
-- Android Development (Java e Kotlin)
+- Android Development (Java and Kotlin)
 - Architectures MVC, MVP, MVVM
 - Clean Architecture
 - Dependency injection with Hilt
@@ -12,7 +12,7 @@ I am an Android developer and passionate about technology.
 - Service e Broadcast
 - SOLID
 - Git and GitHub
-- Firebase, SQLite e SQL
+- Firebase, SQLite and SQL
 - Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation and Compose)
 - Integration and Testing
 - Scrum
