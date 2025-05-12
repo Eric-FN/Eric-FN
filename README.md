@@ -23,7 +23,7 @@ I am a Front-End Developer and passionate about technology.
 
 ## 🌐 Website
 
-👉 [https://seuwebsite.com](https://ericfonseca.pt/)
+👉 [https://ericfonseca.pt](https://ericfonseca.pt/)
 
 ## 📫 How to reach me
 
