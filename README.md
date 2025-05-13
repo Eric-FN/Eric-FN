@@ -1,6 +1,6 @@
-# Hi, I'm Eric Fonseca Nascimento 👨‍💻
+# Hi, I'm Eric Fonseca 👨‍💻
 
-I am a Front-End Developer and passionate about technology.  
+When it comes to front-end, no matter the challenge — I make it happen. Always open to new opportunities and ready to turn ideas into amazing user experiences.
 ### 👀 I am currently looking for new projects. 👀
 
 ## ⚡ Skills
